@@ -1,2 +1,1 @@
-# Weather-App
-Project #2
+# Weather-app
